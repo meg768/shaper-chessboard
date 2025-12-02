@@ -1,14 +1,15 @@
 {
   "tasks": [
     {
-      "label": "git-commit",
-      "type": "shell",
-      "command": "make git-commit"
+        "label": "git-commit",
+        "type": "shell",
+        "command": "make git-commit",
+        "problemMatcher": []
     },
     {
-      "label": "goto-github",
-      "type": "shell",
-      "command": "make goto-github"
+        "label": "goto-github",
+        "type": "shell",
+        "command": "make goto-github"
     }
-  ]
+]
 }
