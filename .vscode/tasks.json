@@ -9,7 +9,8 @@
     {
         "label": "goto-github",
         "type": "shell",
-        "command": "make goto-github"
+        "command": "make goto-github",
+        "problemMatcher": []
     }
 ]
 }
